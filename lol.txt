@@ -1,4 +1,6 @@
 hola
 Esta es mi tercera practica usando Git
-
+integrantes
 lady mite
+anthony del valle
+peter lozano
